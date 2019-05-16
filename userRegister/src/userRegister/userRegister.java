@@ -17,7 +17,7 @@ public class userRegister {
 
 
     public String getFirstName() {
-        return lastName;
+        return firstName;
     }
 
     public void setFirstName(String firstName) {
